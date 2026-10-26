@@ -1,0 +1,362 @@
+{
+  "preference_authority": {
+    "file_name": "train/preference/all/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_bandwagon": {
+    "file_name": "train/preference/all/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_sentiment": {
+    "file_name": "train/preference/all/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_cot": {
+    "file_name": "train/preference/all/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_orca_authority": {
+    "file_name": "train/preference/orca/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_orca_bandwagon": {
+    "file_name": "train/preference/orca/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_orca_sentiment": {
+    "file_name": "train/preference/orca/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_orca_cot": {
+    "file_name": "train/preference/orca/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_py_authority": {
+    "file_name": "train/preference/py/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_py_bandwagon": {
+    "file_name": "train/preference/py/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_py_sentiment": {
+    "file_name": "train/preference/py/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_py_cot": {
+    "file_name": "train/preference/py/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_truthy_authority": {
+    "file_name": "train/preference/truthy/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_truthy_bandwagon": {
+    "file_name": "train/preference/truthy/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_truthy_sentiment": {
+    "file_name": "train/preference/truthy/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_truthy_cot": {
+    "file_name": "train/preference/truthy/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_emerton_authority": {
+    "file_name": "train/preference/emerton/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_emerton_bandwagon": {
+    "file_name": "train/preference/emerton/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_emerton_sentiment": {
+    "file_name": "train/preference/emerton/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "preference_emerton_cot": {
+    "file_name": "train/preference/emerton/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_authority": {
+    "file_name": "train/fact/all/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_bandwagon": {
+    "file_name": "train/fact/all/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_sentiment": {
+    "file_name": "train/fact/all/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_cot": {
+    "file_name": "train/fact/all/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_math_authority": {
+    "file_name": "train/fact/math/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_math_bandwagon": {
+    "file_name": "train/fact/math/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_math_sentiment": {
+    "file_name": "train/fact/math/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_math_cot": {
+    "file_name": "train/fact/math/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_history_authority": {
+    "file_name": "train/fact/history/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_history_bandwagon": {
+    "file_name": "train/fact/history/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_history_sentiment": {
+    "file_name": "train/fact/history/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_history_cot": {
+    "file_name": "train/fact/history/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_chemistry_authority": {
+    "file_name": "train/fact/chemistry/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_chemistry_bandwagon": {
+    "file_name": "train/fact/chemistry/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_chemistry_sentiment": {
+    "file_name": "train/fact/chemistry/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_chemistry_cot": {
+    "file_name": "train/fact/chemistry/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_psychology_authority": {
+    "file_name": "train/fact/psychology/authority.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_psychology_bandwagon": {
+    "file_name": "train/fact/psychology/bandwagon.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_psychology_sentiment": {
+    "file_name": "train/fact/psychology/sentiment.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "fact_psychology_cot": {
+    "file_name": "train/fact/psychology/cot.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }
+}

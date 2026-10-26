@@ -1,0 +1,4 @@
+# Install a mutually compatible CUDA/PyTorch/LLaMA-Factory/vLLM environment.
+llamafactory
+vllm
+tqdm
